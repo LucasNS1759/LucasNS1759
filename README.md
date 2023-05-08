@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Soy Lucas 👋
-Full Stack Developer 💻 
-Graduado en SoyHenry 🚀
-From Buenos Aires, Argentina
+Soy Lucas 👋°
+Full Stack Developer 💻 °
+Graduado en SoyHenry 🚀°
+From Buenos Aires, Argentina°
 
 ¿Que aprendi hasta ahora? :
 -HTML
