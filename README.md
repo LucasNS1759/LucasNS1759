@@ -1,6 +1,6 @@
 ### Hi there 👋
 !
-[![Uploading codeando.gif…]()](https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif)
+[[![Uploading codeando.gif…]()](https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif)](https://media.tenor.com/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif)
 
 <!--
 **LucasNS1759/LucasNS1759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
