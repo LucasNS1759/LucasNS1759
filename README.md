@@ -1,5 +1,6 @@
 ### Hi there 👋
-![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966](https://user-images.githubusercontent.com/113627748/236949435-12474798-e3d2-402f-9be8-a96c83f17707.gif)
+!
+![Uploading codeando.gif…]()
 
 <!--
 **LucasNS1759/LucasNS1759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
