@@ -51,9 +51,11 @@ una vez dentro podra :
 -si se equivoco a la hora de la creacion y le gustaria modificar algun detalles cuenta con opcion de editar un perro ya creado o si lo desea puede eliminarlo 
 -como dato curioso usted tendra un pequeño mensaje de bienvenida cuando se loguee e ingrese al Home 
 
-![dogDetail]([https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif](https://github.com/LucasNS1759/dogsPi/blob/main/client/public/img/React%20App%20-%20Google%20Chrome%208_5_2023%2020_01_04.png))
 
-![dogHome]([[https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif](https://github.com/LucasNS1759/dogsPi/blob/main/client/public/img/React%20App%20-%20Google%20Chrome%208_5_2023%2020_01_04.png](https://github.com/LucasNS1759/dogsPi/blob/main/client/public/img/dogHome.png))
 
+
+
+![DogDetail](https://github.com/LucasNS1759/dogsPi/blob/main/client/public/img/React%20App%20-%20Google%20Chrome%208_5_2023%2020_01_04.png)
+![DogHome](https://github.com/LucasNS1759/dogsPi/blob/main/client/public/img/dogHome.png)
 
 
