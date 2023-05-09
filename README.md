@@ -74,6 +74,9 @@ PetBook surgio de la idea de poder facilitar a las ONG y refugios que se dedican
 ![petBook](https://github.com/LucasNS1759/Proyecto_Final_PetBook/blob/main/client/public/PetBook%20-%20Google%20Chrome%208_5_2023%2021_28_33.png)
 ![petBook](https://github.com/LucasNS1759/Proyecto_Final_PetBook/blob/main/client/public/PetBook%20-%20Google%20Chrome%208_5_2023%2021_29_23.png)
 
+Tecnologias usadas:
+Javascript,Node.js ,Express,postgresSql,Sequelize, React-Redux, tailwind 
+
 
 
 
