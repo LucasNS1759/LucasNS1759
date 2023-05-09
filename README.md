@@ -77,7 +77,12 @@ PetBook surgio de la idea de poder facilitar a las ONG y refugios que se dedican
 Tecnologias usadas:
 Javascript,Node.js ,Express,postgresSql,Sequelize, React-Redux, tailwind 
 
+¿Cuales son mis proximos objetivos?
+-quiero seguir aprendiendo y mejorado en React , aprender Redux Toolkit, seguir mejorando con express y sequelize, aprender typeScript y proximamente Next.js
 
-
+Contactame en :
+https://www.linkedin.com/in/lucas-nahuel-salvatierra-862604260/
+y tambien en:
+lucassnahuel1759@gmail.com
 
 
